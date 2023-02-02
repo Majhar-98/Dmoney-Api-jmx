@@ -1,4 +1,4 @@
-# Dmoney-Api-jmx
+# Dmoney-Api-Server-Perofmance-Test-jmx
 ## Tecnology used:
 - Apache Jmeter
 
