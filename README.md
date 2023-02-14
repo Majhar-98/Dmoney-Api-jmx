@@ -1,4 +1,14 @@
 # Dmoney-Api-Server-Perofmance-Test-jmx
+## Brief overview about Performance Testing:
+JMeter Performance Testing is a testing technique that evaluates a web application's performance using Apache JMeter. 
+JMeter for performance testing offers a variety of graphical analyses, helps to identify concurrent users on websites, and tests both static and dynamic resources.
+Web application load tests and stress tests are included in JMeter performance testing. 
+
+## Apache JMeter testing tool offers following benefit in Performance Testing:
+
+JMeter can discover maximum number of concurrent users that your website can handle
+JMeter provides a variety of graphical analyses of performance reports.
+
 ## Tecnology used:
 - Apache Jmeter
 
